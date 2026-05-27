@@ -102,4 +102,4 @@ else:
 
 # 6. 푸터(Footer)
 st.markdown("---")
-st.caption("Made with ❤️ using Streamlit | [GitHub Repository](https://github.com/여러분의아이디/저장소이름)")
+st.caption("Made with ❤️ using Streamlit | [MBTIanime](https://github.com/meyul/MBTIanime)")
